@@ -10,10 +10,35 @@ The main goal of the course is to guide you from a state of complete programming
 * Python Basics & Data Types & Operators
 * Control Flow, Loops
 * Python Lists & Sets & Dictionaries
-* Functions and Packages - regez
-* Pandas and Seaborn Essentials
+* Regular expressions
+* Functions and Packages
+* Pandas and Seaborn basics
+* Data Visualization with Pandas
 * Data Preprocessing with Pandas
-* Data visualization with Pandas 
+* Numpy
+* Introduction to Linear Algebra
+* Vectors and Vector Arithmetic
+* Matrices and Matrix operations
+* Operations with Tensors in Python
+* Introduction to Matrix Factorization in Python
+* Describing Randomness
+* Random Variables and Probability Distributions
+* Some Common Distributions
+* Continuous Distributions
+* Discrete Distributions   
+* Covariance and Correlation
+* High-Dimensional Spaces
+* Different Types of Probability
+* Measuring Correctness
+* The Confusion Matrix
+* Characterizing Incorrect Predictions
+* Measuring Correct and Incorrect
+* Accuracy
+* Precision
+* Recall
+* Precision-Recall Tradeoff
+* Misleading Measures
+* f1 Score
 
 ## 💻 Structure
 
