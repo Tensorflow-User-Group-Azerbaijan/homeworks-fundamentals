@@ -25,7 +25,7 @@ Once sent, each student is given 4 days for homework. Homeworks handed after the
 ### Homework submission instructions
 Student should submit answers under the corresponding homework folder in his/her github classroom repository. Steps for submission:
 
----
+
 1. Install Git  [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 2. Fork your private repo and clone it to your computer using the terminal command `git clone <url>`.  Navigate into the cloned folder and build your homework project there.
