@@ -7,23 +7,40 @@ The main goal of the course is to guide you from a state of complete programming
 
 ## 📝 The topics covered
 
-* 
-* 
-* Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
-* Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
-* [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
+* Python Basics & Data Types & Operators
+* Control Flow, Loops
+* Python Lists & Sets & Dictionaries
+* Functions and Packages - regez
+* Pandas and Seaborn Essentials
+* Data Preprocessing with Pandas
+* Data visualization with Pandas 
 
 ## 💻 Structure
 
 ### Deadline policy 
-We mentioned repositories already, they are where your project work happens, but let’s talk a bit more about the details of them! As you work more on GitHub you will have many repositories which may feel confusing at first. Fortunately, your ["GitHub dashboard"](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard) helps to easily navigate to your repositories and see useful information about them. Make sure you’re logged in to see it!
 
-Repositories also contain **README**s. You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it. We are using this README to communicate how to learn Git and GitHub with you. 😄 
-To learn more about repositories read ["Creating, Cloning, and Archiving Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories) and ["About README's"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes). 
+Once sent, each student is given 4 days for homework. Homeworks handed after the deadline will not be graded. If a student is unable to complete the homework, he/she should ask for help from the teacher or other students at slack group before deadline.
+
 
 ### Homework submission instructions
-You can use branches on GitHub to isolate work that you do not want merged into your final project just yet. Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. Typically, you might create a new branch from the default branch of your repository—main. This makes a new working copy of your repository for you to experiment with. Once your new changes have been reviewed by a teammate, or you are satisfied with them, you can merge your changes into the default branch of your repository.
-To learn more about branching, read ["About Branches"](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches).
+Student should submit answers under the corresponding homework folder in his/her github classroom repository. Steps for submission:
+
+---
+1. Install Git  [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+
+2. Fork your private repo and clone it to your computer using the terminal command `git clone <url>`.  Navigate into the cloned folder and build your homework project there.
+
+3. Add your answers in .py or .ipynb file. As you make changes and decide to commit your code follow these commands:
+
+	```
+    git status //You'll see all of the files you've changed show up in red
+    git add --all //this command stages all of your changes for commit
+    git status //All of the red files should now be green
+    git commit -m "<your commit message here>" //this commits your changes
+    git status //All of the file names should no longer appear
+    git push origin main //This pushes your changes up to the cloud
+	```
+    
 
 
 ## 📚  More resources 
