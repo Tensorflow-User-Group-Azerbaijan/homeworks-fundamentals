@@ -1,4 +1,4 @@
-# :wave: Homeworks for Python essentials
+# :wave: Homeworks: Fundamentals
 
 ## 🚀 Course overview and learning outcomes 
 
